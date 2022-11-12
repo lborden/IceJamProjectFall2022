@@ -28,5 +28,9 @@ Model Description
 
 	Linear regression models will be developed using Python’s library SciPy. Using InSAR as the dependent variable and stream gauge data as the independent variable, correlation, model strength, and statistical significance of the relationship will be assessed. We will perform these tasks through the assessment of Pearson’s r and Spearman’s r, R2, and p-value produced in the modeling process. Evidence from this assessment will be used for the determination of the feasibility of InSAR data in the future development of a predictive model for ice jam formation. Three models will be developed, the first including only data measured during periods of historic ice jams and rapid increase of vertical displacement. Second, a model will be developed that includes only data from periods of vertical stability of the Mohawk River. Our final model will include all data from the periods with potential for ice jam formation. These models will show the accuracy, precision, and uncertainty associated with InSAR measurements during the varying periods. All developed models will be visualized using the Python libraries Matplotlib, Seaborn and Lux.
 
+# Results
 
+# Discussion
+
+# Conclusion
 #put file structure here
